@@ -163,8 +163,16 @@
     "message": "跳到主要内容",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
+  "home.tagline": {
+    "message": "多功能集成、跨平台、高兼容性的键盘助手",
+    "description": "Subtitle"
+  },
   "home.getStarted": {
     "message": "入门指南",
     "description": "Get Started"
+  },
+  "home.features.easyToUse.title": {
+    "message": "简单易用",
+    "description": "Easy to Use"
   }
 }

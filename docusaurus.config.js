@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'LINK You And Me',
-  tagline: 'Presented by LNE',
+  title: 'LINK',
+  tagline: 'Multifunctional integrated, cross platform, highly compatible assistant for your keyboard.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -30,7 +30,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} LNE Lab All Rights Reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LNE Lab. All Rights Reserved.`,
     },
     prism: {
       theme: lightCodeTheme,
