@@ -174,5 +174,25 @@
   "home.features.easyToUse.title": {
     "message": "简单易用",
     "description": "Easy to Use"
+  },
+  "home.features.easyToUse.desc": {
+    "message": "简单易用",
+    "description": "Easy to Use"
+  },
+  "home.features.multifunctional.title": {
+    "message": "丰富的功能",
+    "description": "Multiple Features"
+  },
+  "home.features.multifunctional.desc": {
+    "message": "LINK提供了丰富的功能",
+    "description": "Multiple Features"
+  },
+  "home.features.excellentCompatibility.title": {
+    "message": "出色的兼容性",
+    "description": "Excellent compatibility"
+  },
+  "home.features.excellentCompatibility.desc": {
+    "message": "出色的兼容性",
+    "description": "Excellent compatibility"
   }
 }

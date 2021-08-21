@@ -6,32 +6,32 @@ import Translate from '@docusaurus/Translate';
 const FeatureList = [
   {
     title: <Translate id="home.features.easyToUse.title">Easy to Use</Translate>,
-    Svg: require('../../static/img/undraw_code_typing.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_location_search.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by LNE Lab',
     Svg: require('../../static/img/undraw_maintenance.svg').default,
     description: (
-      <>
+      <Translate id="home.features.easyToUse.desc">
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate id="home.features.multifunctional.title">Multifunctional</Translate>,
+    Svg: require('../../static/img/undraw_location_search.svg').default,
+    description: (
+      <Translate id="home.features.multifunctional.desc">
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the directory.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate id="home.features.excellentCompatibility.title">Excellent compatibility</Translate>,
+    Svg: require('../../static/img/undraw_code_typing.svg').default,
+    description: (
+      <Translate id="home.features.excellentCompatibility.desc">
         Extend or customize your website layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
-      </>
+      </Translate>
     ),
   },
 ];
