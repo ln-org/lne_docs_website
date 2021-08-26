@@ -168,31 +168,24 @@
     "description": "Subtitle"
   },
   "home.getStarted": {
-    "message": "入门指南",
-    "description": "Get Started"
+    "message": "入门指南"
   },
   "home.features.easyToUse.title": {
-    "message": "简单易用",
-    "description": "Easy to Use"
+    "message": "简单易用"
   },
   "home.features.easyToUse.desc": {
-    "message": "LINK自始至终是为了便于安装和使用而设计的，从而方便地管理您的键盘。",
-    "description": "Easy to Use"
+    "message": "LINK自始至终是为了便于安装和使用而设计的，从而方便地管理您的键盘。"
   },
   "home.features.multifunctional.title": {
-    "message": "丰富的功能",
-    "description": "Multiple Features"
+    "message": "丰富的功能"
   },
   "home.features.multifunctional.desc": {
-    "message": "LINK提供了丰富多样的功能，持续的迭代赋予了其更多的可能性。",
-    "description": "Multiple Features"
+    "message": "LINK提供了丰富多样的功能，持续的迭代赋予了其更多的可能性。"
   },
   "home.features.excellentCompatibility.title": {
-    "message": "出色的兼容性",
-    "description": "Excellent compatibility"
+    "message": "出色的兼容性"
   },
   "home.features.excellentCompatibility.desc": {
-    "message": "LINK具备出色的兼容性，让您能够轻松的驾驭多种键盘及其佩列。",
-    "description": "Excellent compatibility"
+    "message": "LINK具备出色的兼容性，让您能够轻松的驾驭多种键盘及其佩列。"
   }
 }

@@ -22,7 +22,7 @@ module.exports = {
       },
       */
       items: [
-        { type: 'doc', docId: 'welcome', label: 'Docs', position: 'left' },
+        { type: 'doc', docId: 'introduction', label: 'Docs', position: 'left' },
         { to: '/blog', label: 'Blog', position: 'left' },
         { href: 'https://github.com/ln-org/lne_link/releases', label: 'Download', position: 'left' },
         { type: 'localeDropdown', position: 'right' },
