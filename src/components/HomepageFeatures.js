@@ -6,11 +6,10 @@ import Translate from '@docusaurus/Translate';
 const FeatureList = [
   {
     title: <Translate id="home.features.easyToUse.title">Easy to Use</Translate>,
-    Svg: require('../../static/img/undraw_maintenance.svg').default,
+    Svg: require('../../static/img/undraw_active_options.svg').default,
     description: (
       <Translate id="home.features.easyToUse.desc">
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        LINK was designed from the ground up to be easily installed and used to manage your keyboard conveniently.
       </Translate>
     ),
   },
@@ -19,18 +18,16 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_location_search.svg').default,
     description: (
       <Translate id="home.features.multifunctional.desc">
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the directory.
+        LINK provides a variety of functions, and continuous iteration gives it more possibilities.
       </Translate>
     ),
   },
   {
     title: <Translate id="home.features.excellentCompatibility.title">Excellent compatibility</Translate>,
-    Svg: require('../../static/img/undraw_code_typing.svg').default,
+    Svg: require('../../static/img/undraw_real_time_sync.svg').default,
     description: (
       <Translate id="home.features.excellentCompatibility.desc">
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Link has excellent compatibility, allowing you to easily control multiple keyboards and their keymaps.
       </Translate>
     ),
   },

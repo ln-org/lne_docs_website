@@ -15,10 +15,12 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'LINK',
+      /*
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
+      */
       items: [
         { type: 'doc', docId: 'welcome', label: 'Docs', position: 'left' },
         { to: '/blog', label: 'Blog', position: 'left' },
