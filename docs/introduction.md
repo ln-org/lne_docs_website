@@ -8,7 +8,7 @@ slug: /
 
 # Introduction
 
-Let's discover **LINK in less than 5 minutes**.
+Let's discover **LINK in less than 10 minutes**.
 
 ## What is LINK?
 
