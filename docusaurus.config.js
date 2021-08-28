@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'LINK',
   tagline: 'Multifunctional integrated, cross platform, highly compatible assistant for your keyboard.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://www.lnelab.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,13 +47,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ln-org/lne_docs_website/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ln-org/lne_docs_website/tree/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
