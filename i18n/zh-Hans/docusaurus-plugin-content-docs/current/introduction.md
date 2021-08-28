@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
 id: introduction
-title: Introduction
-sidebar_label: Introduction
+title: 介绍
+sidebar_label: 介绍
 slug: /
 ---
 
@@ -10,6 +10,7 @@ slug: /
 
 Let's discover **LINK in less than 5 minutes**.
 
-## What is LINK?
+### 什么是LINK?
+LINK是一款用于管理键盘的软件。
 
-## How to install LINK?
+### 如何安装LINK?

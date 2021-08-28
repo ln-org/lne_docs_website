@@ -8,8 +8,16 @@ slug: /
 
 # Introduction
 
-Let's discover **LINK in less than 10 minutes**.
+Let's discover **LINK** in less than 5 minutes.
 
 ## What is LINK?
 
-## How to install LINK?
+LINK is a multifunctional integrated, cross platform, highly compatible assistant for your keyboard.
+
+The aim of this project is to help us work with LNE keyboard better. LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
+
+![home](/img/introduction/home.png)
+
+## Useful links
+
+- [About LNE Lab](/blog)
