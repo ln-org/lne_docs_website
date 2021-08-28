@@ -3,16 +3,16 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "开始上手",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "使用指南",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Test": {
-    "message": "Tutorial - Test",
-    "description": "The label for category Tutorial - Test in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Support": {
+    "message": "支持",
+    "description": "The label for category Support in sidebar tutorialSidebar"
   }
 }
