@@ -20,4 +20,4 @@ The aim of this project is to help us work with LNE keyboard better. LINK provid
 
 ## Useful links
 
-- [About LNE Lab](/blog)
+* [About LNE Lab](/blog)

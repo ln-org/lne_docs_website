@@ -1,5 +1,5 @@
 ---
-slug: aboutLNELab
+slug: about-lnelab
 title: 关于LNE Lab
 author: Leon Sun
 author_title: Hardware Engineer @ LNE Lab
