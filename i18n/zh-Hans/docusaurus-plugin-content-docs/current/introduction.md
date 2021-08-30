@@ -8,13 +8,14 @@ slug: /
 
 # 介绍
 
-Let's discover **LINK** in less than 5 minutes.
+下面，我们先简单介绍一下**LINK**。
 
 ## 什么是LINK?
 
 LINK是一款多功能集成、跨平台、高兼容性的键盘助手。
 
-The aim of this project is to help us work with LNE keyboard better. LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
+帮助我们更好的使用和个性化设置我们设计的键盘是LINK的设计初衷。LINK在导航栏的加持下，可以更简洁明快的提供佩列修改，灯光自定义，固件更新等操作。
+
 
 ![home](/img/introduction/home.png)
 

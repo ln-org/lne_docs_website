@@ -34,7 +34,7 @@ Nathan和我是在2016年认识的，而第一次在键盘上合作就已经是�
 - [SiRius MeowTool X1](https://www.zfrontier.com/app/eqp/pkjVK5oPDzZR)
 - [SiRius LINKPAD](https://www.zfrontier.com/app/eqp/pO881j49aBE0)
 
-然而，LINK的设计远景不仅仅是满足自己需要，也想为更多的客制化的伙伴们提供便利，因此非常荣幸，我们推出了**LNE伙伴计划**，陆续有很多朋友先后成为了我们的伙伴，完成了键盘和LINK程序的适配使用。
+然而，LINK的设计远景不仅仅是满足自己需要，也想为更多的客制化的伙伴们提供便利，因此非常荣幸，我们推出了[**LNE伙伴计划**](current/support/partners.md)，陆续有很多朋友先后 成为了我们的伙伴，完成了键盘和LINK程序的适配使用。
 
 #### LNE伙伴键盘列表
 - [Atlantis AK21](https://www.zfrontier.com/app/flow/40bOYxwr0Jqo)

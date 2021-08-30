@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Supported Devices
+# 已支持设备列表
 
 
-| Keyboard                                                              | Manufacturer      |
+| 键盘款式                                                               | 制造厂商/团体       |
 | ----------------------------------------------------------------------| ------------------|
 | [Uni660](https://www.zfrontier.com/app/eqp/0jW73G5w4Nwn)              | SiRius            |
 | [MeowTool X1](https://www.zfrontier.com/app/eqp/pkjVK5oPDzZR)         | SiRius            |
