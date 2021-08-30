@@ -20,8 +20,6 @@ LINK Setup x.x.x.exe 是Windows上运行的程序
 
 LINK-x.x.x.dmg 是macOS上运行的程序
 
-:::
-
 非常推荐大家加入我们的腾讯QQ群，所有的更新信息我们会在群里第一时间发出。
 
 ## 在Windows上安装LINK
