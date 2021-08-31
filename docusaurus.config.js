@@ -32,7 +32,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} LNE Lab. All Rights Reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LNE Lab All Rights Reserved.`,
     },
     prism: {
       theme: lightCodeTheme,
