@@ -13,7 +13,7 @@ tags: [LNE Lab, introduce]
 ## LNE Lab的诞生
 Nathan和我是在2016年认识的，而第一次在键盘上合作就已经是在2020年3月了，当时承接了虚线的Vista65的BLE版本的PCB和程序的设计，PCB初版打样留了LeonsunDesign的logo丝印，拿到PCB完整调试好功能的时候，我就萌发了要和Nathan组成一个Team。2020年4月，当Vista65正式版的PCB上出现LNE LAB的沉金丝印，标志着LNE Lab正式成立了。
 
-<img src="/img/blog/V65_logo.JPG" />
+![v65_logo](/img/blog/v65_logo.jpg)
 
 ## LINK初萌芽
 
@@ -23,7 +23,8 @@ Nathan和我是在2016年认识的，而第一次在键盘上合作就已经是�
 
 显然，这两类都不是我们需要的。
 一款在插入USB接口之后，能直自动识别设备，并且通过简单操作就能修改键盘配置的软件[LINK](https://github.com/ln-org/lne_link)就诞生了。Nathan从2020年11月开始的LNE HUB（LINK的曾用名） 1.0.2版本一步一步更新到了今天的LINK 1.3.1版本，真的非常让人佩服。
-<img src="/img/blog/lighting_en.png"/>
+
+![lighting_en](/img/blog/lighting_en.png)
 
 与LINK完成适配的主要是我们的自研键盘，既有单模的Meowtool X1和EXAO，也有蓝牙4.x方案的EVILPAD和Vista65，还有蓝牙5.x方案的LINKPAD。
 
@@ -34,7 +35,7 @@ Nathan和我是在2016年认识的，而第一次在键盘上合作就已经是�
 - [SiRius MeowTool X1](https://www.zfrontier.com/app/eqp/pkjVK5oPDzZR)
 - [SiRius LINKPAD](https://www.zfrontier.com/app/eqp/pO881j49aBE0)
 
-然而，LINK的设计远景不仅仅是满足自己需要，也想为更多的客制化的伙伴们提供便利，因此非常荣幸，我们推出了[**LNE伙伴计划**](current/support/partners.md)，陆续有很多朋友先后 成为了我们的伙伴，完成了键盘和LINK程序的适配使用。
+然而，LINK的设计远景不仅仅是满足自己需要，也想为更多的客制化的伙伴们提供便利，因此非常荣幸，我们推出了[**LINK伙伴计划**](/docs/support/partners)，陆续有很多朋友先后 成为了我们的伙伴，完成了键盘和LINK程序的适配使用。
 
 #### LNE伙伴键盘列表
 - [Atlantis AK21](https://www.zfrontier.com/app/flow/40bOYxwr0Jqo)

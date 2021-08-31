@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 键盘
 
-通过LINK来修改你键盘的一切。
+通过LINK来掌控你的键盘。
 
 ## 修改按键佩列
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 安装
 
-LINK在windows和macOS上都非常容易安装。
+LINK本质上是一款可安装于Windows和macOS操作系统上的软件。
 
 ## LINK的下载方式
 
@@ -14,11 +14,13 @@ LINK在windows和macOS上都非常容易安装。
 - [Releases on Gitee](https://gitee.com/lne-lab/lne_link/releases)
 - 加入LNE的腾讯QQ群 1107582873
 
-:::小提示
+:::tip
 
 LINK Setup x.x.x.exe 是Windows上运行的程序
 
 LINK-x.x.x.dmg 是macOS上运行的程序
+
+:::
 
 非常推荐大家加入我们的腾讯QQ群，所有的更新信息我们会在群里第一时间发出。
 

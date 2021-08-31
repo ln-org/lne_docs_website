@@ -17,5 +17,5 @@ sidebar_position: 1
 | EVIL Pad                                                              | EVIL              |
 | [DZ60RGB ANSI](https://www.zfrontier.com/app/eqp/RAjVwNPmGq9p)        | KBDfans           |
 | [KBD67 MKII RGB V2](https://www.zfrontier.com/app/eqp/nW8w99q68oDR)   | KBDfans           |
-| [KBD67 Lite](https://www.zfrontier.com/app/eqp/0NlAr9kewNVR)          | KBDfans           |
+| [KBD67 MKII RGB V3](https://www.zfrontier.com/app/eqp/nW8w99q68oDR)   | KBDfans           |
 | EXAO                                                                  | Naradin           |

@@ -21,4 +21,4 @@ LINK是一款多功能集成、跨平台、高兼容性的键盘助手。
 
 ## 相关链接
 
-* [关于LNE Lab](i18n/zh-Hans/docusaurus-plugin-content-docs/current/blog/)
+* [关于LNE Lab](/blog)
