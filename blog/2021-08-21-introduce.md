@@ -14,7 +14,7 @@ Hello Everyone,
 ## LNE Lab的诞生
 Nathan和我是在2016年认识的，而第一次在键盘上合作就已经是在2020年3月了，当时承接了虚线的Vista65的BLE版本的PCB和程序的设计，PCB初版打样留了LeonsunDesign的logo丝印，拿到PCB完整调试好功能的时候，我就萌发了要和Nathan组成一个Team。2020年4月，当Vista65正式版的PCB上出现LNE LAB的沉金丝印，标志着LNE Lab正式成立了。
 
-![v65_logo](/img/blog/v65_logo.jpg)
+![v65_logo](/img/blog/vista65_logo.png)
 
 ## LINK初萌芽
 
