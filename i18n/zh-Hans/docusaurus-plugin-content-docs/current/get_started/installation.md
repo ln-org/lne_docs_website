@@ -29,9 +29,11 @@ LINK-x.x.x.dmg 是macOS上运行的程序
 
 可以按照下面的步骤进行完整的安装。
 
-![windows_install](/img/guides/windows_install.png)
+![windows_install](/img/get_started/windows_install.png)
 
 ## 在macOS上安装LINK 
+
+![mac_install](/img/get_started/mac_install.png)
 
 
 

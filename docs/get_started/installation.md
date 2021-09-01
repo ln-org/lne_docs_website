@@ -28,9 +28,10 @@ It is recommended to join our QQ group directly, we will always update the resou
 
 Please follow the wizard to complete installation.
 
-![windows_install](/img/guides/windows_install.png)
+![windows_install](/img/get_started/windows_install.png)
 
 ## Install LINK on macOS
 
+![mac_install](/img/get_started/mac_install.png)
 
 

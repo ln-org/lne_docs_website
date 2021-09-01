@@ -16,7 +16,7 @@ LINK is a multifunctional integrated, cross platform, highly compatible assistan
 
 The aim of this project is to help us work with LNE keyboard better. LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
 
-![home](/img/introduction/home.png)
+![home](/img/introduction/home_en.png)
 
 ## Useful links
 

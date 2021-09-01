@@ -17,7 +17,7 @@ LINK是一款多功能集成、跨平台、高兼容性的键盘助手。
 帮助我们更好的使用和个性化设置我们设计的键盘是LINK的设计初衷。LINK在导航栏的加持下，可以更简洁明快的提供佩列修改，灯光自定义，固件更新等操作。
 
 
-![home](/img/introduction/home.png)
+![home](/img/introduction/home_en.png)
 
 ## 相关链接
 
