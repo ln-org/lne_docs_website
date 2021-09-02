@@ -26,14 +26,18 @@ LINK-x.x.x.dmg 是macOS上运行的程序
 
 ## 在Windows上安装LINK
 
-
-可以按照下面的步骤进行完整的安装。
+在完成下载后，双击安装包，就可以跟着流程走完安装流程。
 
 ![windows_install](/img/get_started/windows_install.png)
 
 ## 在macOS上安装LINK 
 
+在完成下载后，双击安装包，将下图左侧的应用拖拽到右侧的文件夹中，便可以完成安装。
+
 ![mac_install](/img/get_started/mac_install.png)
 
+在第一次安装之后，由于系统的权限问题，无法在启动台中直接打开LINK程序，需要用户在访达的应用文件夹中右键打开。
 
+![first_open_in_macOS.png](/img/get_started/first_open_in_macOS.png)
 
+之后就可以在macOS中尽情使用LINK了。
