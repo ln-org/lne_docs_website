@@ -6,7 +6,7 @@ sidebar_position: 2
 
 目前，我们已经和以下这些厂商或团体达成了合作：
 
-* SiRius 
+* SIRIUS 
 * ALF
 * Atlantis
 * Basic I/O Instruments
